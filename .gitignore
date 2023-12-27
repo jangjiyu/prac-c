@@ -107,3 +107,5 @@ Makefile.am
 *.zip
 *.tar.bz2
 *.rar
+
+.DS_Store
